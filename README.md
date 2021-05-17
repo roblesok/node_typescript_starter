@@ -12,3 +12,5 @@
 - Node
 - Typescript
 - Express
+- Eslint
+- Prettier
